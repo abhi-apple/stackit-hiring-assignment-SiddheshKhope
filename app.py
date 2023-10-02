@@ -5,7 +5,7 @@ def main():
     st.title("Google Sheets Input Collector")
     st.subheader("Please share your Google Sheet access with: csv-importer@csv-importer-400714.iam.gserviceaccount.com")
     
-    s = gspread.service_account(filename="%APPDATA%\\gspread\\service_account.json")
+    s = gspread.service_account(filename="./%APPDATA%/gspread/service_account.json")
 
     sheet_url = st.text_input("Enter the Google file name:")
     sheet_name = st.text_input("Enter the Sheet Name:")
