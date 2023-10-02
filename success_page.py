@@ -6,7 +6,7 @@ from gspread_dataframe import set_with_dataframe
 st.title('CSV Importer for Google Sheets (Streamlit)')
 
 # This assumes that the connection with Google Sheets has already been set up in the previous file.
-s = gspread.service_account(filename="%APPDATA%\\gspread\\service_account.json")
+s = gspread.service_account(filename="./%APPDATA%/gspread/service_account.json")
 
 # The sheet_url and sheet_name from the previous file should be passed to this file.
 # For now, I'll assume they're in the session state.
