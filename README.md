@@ -54,7 +54,15 @@ We have a checklist at the bottom of this README file, which you should update a
 - [✔] I have even solved some edge cases (brownie points) 💪
 - [✔] I added my very planned-out approach to the problem at the end of this README 📜
 
-## Approach:
+
+
+## Got Questions❓
+Feel free to check the discussions tab, you might get something of help there. Check out that tab before reaching out to us. Also, did you know, the internet is a great place to explore 😛
+
+## Developer's Section
+*Add your video here, and your approach to the problem (optional). Leave some comments for us here if you want, we will be reading this :)*
+
+### Approach:
 
 This solution leverages **Streamlit** to provide an interactive web interface, allowing users to upload a CSV and choose how its data should be imported into Google Sheets. Behind the scenes, we use `gspread` for Google Sheets interaction.
 
@@ -66,10 +74,3 @@ Users can opt for specific columns from the CSV. This ensures that only relevant
 
 #### Column Mapping:
 An additional feature was introduced to provide flexibility in how data is stored. Users can map columns from the CSV to specific columns in the Google Sheet. This is especially useful for sheets with predefined structures.
-
-
-## Got Questions❓
-Feel free to check the discussions tab, you might get something of help there. Check out that tab before reaching out to us. Also, did you know, the internet is a great place to explore 😛
-
-## Developer's Section
-*Add your video here, and your approach to the problem (optional). Leave some comments for us here if you want, we will be reading this :)*
