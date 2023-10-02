@@ -60,7 +60,10 @@ We have a checklist at the bottom of this README file, which you should update a
 Feel free to check the discussions tab, you might get something of help there. Check out that tab before reaching out to us. Also, did you know, the internet is a great place to explore 😛
 
 ## Developer's Section
-*Add your video here, and your approach to the problem (optional). Leave some comments for us here if you want, we will be reading this :)*
+*Here is the short demo video to understand the overview of csv importer*
+
+https://github.com/StackItHQ/stackit-hiring-assignment-SiddheshKhope/assets/80671956/f8403d11-696c-4f42-a117-7339b2e64938
+
 
 ### Approach:
 
